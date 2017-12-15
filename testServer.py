@@ -1,19 +1,15 @@
 import socket
-#import sys
+serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-# 创建 socket 对象
-serversocket = socket.socket(
-            socket.AF_INET, socket.SOCK_STREAM) 
-
-# 获取本地主机名
-host = '183.206.169.96'
-print("连接地址: %s" % str(socket.gethostbyname(host)))
+host_ip = '108.61.183.150'
+print("连接地址: %s" % str(host_ip))
 port = 9999
 
 # 绑定端口
-serversocket.bind((host, port))
+serversocket.bind((host_ip, port))
 # 设置最大连接数，超过后排队
 serversocket.listen(5)
+msg = "received your request"
 while True:
     # 建立客户端连接
     (clientsocket,addr) = serversocket.accept()      
