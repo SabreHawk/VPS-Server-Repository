@@ -2,10 +2,7 @@ import socket
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 host_ip = '108.61.183.150'
-print("连接地址: %s" % str(host_ip))
 port = 20903
-
-# 绑定端口
 serversocket.bind((host_ip, port))
 # 设置最大连接数，超过后排队
 serversocket.listen(5)
