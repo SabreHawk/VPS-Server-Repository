@@ -8,7 +8,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # 获取本地主机名
 host = '108.61.183.150'
 # 设置端口好
-port = 20903
+port = 1830
 # 连接服务，指定主机和端口
 s.connect((host, port))
 # 接收小于 1024 字节的数据
