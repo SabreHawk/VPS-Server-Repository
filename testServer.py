@@ -6,7 +6,7 @@ port = 1830
 serversocket.bind((host_ip, port))
 # 设置最大连接数，超过后排队
 serversocket.listen(5)
-msg = "received your request"
+msg = "received your request Sabrehawk"
 while True:
     # 建立客户端连接
     (clientsocket,addr) = serversocket.accept()      
