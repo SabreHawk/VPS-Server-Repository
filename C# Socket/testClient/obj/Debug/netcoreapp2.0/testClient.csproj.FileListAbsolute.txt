@@ -1,0 +1,10 @@
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\bin\Debug\netcoreapp2.0\testClient.deps.json
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\bin\Debug\netcoreapp2.0\testClient.runtimeconfig.json
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\bin\Debug\netcoreapp2.0\testClient.runtimeconfig.dev.json
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\bin\Debug\netcoreapp2.0\testClient.dll
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\bin\Debug\netcoreapp2.0\testClient.pdb
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\obj\Debug\netcoreapp2.0\testClient.csproj.CoreCompileInputs.cache
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\obj\Debug\netcoreapp2.0\testClient.AssemblyInfoInputs.cache
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\obj\Debug\netcoreapp2.0\testClient.AssemblyInfo.cs
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\obj\Debug\netcoreapp2.0\testClient.dll
+C:\Users\Zhiquan.Wang\Documents\SourceCode\Project-CSharp\testClient\obj\Debug\netcoreapp2.0\testClient.pdb
